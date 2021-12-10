@@ -1,6 +1,8 @@
 README
 ========
 
+please check version of [riscv-perf-tools](riscv-perf-tools.hash)
+
 set env
 ---------
 
